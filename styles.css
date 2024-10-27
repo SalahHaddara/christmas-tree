@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.89);
+    font-size: 20px;
+}
+
+.star {
+    color: red;
+
+}
+
+.star:hover {
+    color: yellow;
+}
+
+.line {
+    color: green;
+}
+
+.line:hover {
+    color: #0080ff;
+}
