@@ -1,4 +1,4 @@
-var rows = parseInt(prompt("Enter the number of rows for the tree:"));
+var rows = parseInt(prompt("Enter the number of rows of the tree:"));
 var result = "";
 
 for (var i = 0; i < rows; i++) {
